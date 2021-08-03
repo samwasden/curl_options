@@ -1,0 +1,9 @@
+ -q, --disable       Disable .curlrc
+ 
+ -c, --cookie-jar <filename> Write cookies to <filename> after operation
+ 
+ -4, --ipv4          Resolve names to IPv4 addresses
+ 
+ -6, --ipv6          Resolve names to IPv6 addresses
+ 
+     --raw           Do HTTP "raw"; no transfer decoding
